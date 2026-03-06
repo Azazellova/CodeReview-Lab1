@@ -4,10 +4,10 @@
 #include <fstream>
 #include <vector>
 
-//FIX_ME: неправильное наименований функции и параметров
+//FIX_ME: РЅРµРїСЂР°РІРёР»СЊРЅРѕРµ РЅР°РёРјРµРЅРѕРІР°РЅРёР№ С„СѓРЅРєС†РёРё Рё РїР°СЂР°РјРµС‚СЂРѕРІ
 //void insert_sort(std::vector<int>& w, std::vector<int>& p) {
 void InsertSort(std::vector<int>& weight, std::vector<int>& price);
 
-//FIX_ME: неправильное наименований функции и параметров
+//FIX_ME: РЅРµРїСЂР°РІРёР»СЊРЅРѕРµ РЅР°РёРјРµРЅРѕРІР°РЅРёР№ С„СѓРЅРєС†РёРё Рё РїР°СЂР°РјРµС‚СЂРѕРІ
 //int backpack(int W, std::vector<int>& wt, std::vector<int>& val, int n) {
 int CalculateBackpack(int backpackVolume, std::vector<int>& weight, std::vector<int>& values, int itemCount);
